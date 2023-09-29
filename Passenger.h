@@ -1,17 +1,3 @@
-/*
- *  Passenger.h
- *  Caden Chang
- *  Completed 2/15/22
- *
- *  CS 15 Proj1 Phase One 
- *
- *  Contains all member function and variable declarations of class
- *  
- *
- */
-
-
-
 #ifndef __PASSENGER_H__
 #define __PASSENGER_H__
 

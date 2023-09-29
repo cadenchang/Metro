@@ -1,16 +1,3 @@
-/*
- *  MetroSim.h
- *  Caden Chang
- *  Completed 2/22/22
- *
- *  CS 15 Proj1 MetroSim
- *
- *  Declaration of all member functions of MetroSim
- *  Contains an instance of a train
- *  
- *
- */
-
 #ifndef _METROSIM_H_
 #define _METROSIM_H_
 

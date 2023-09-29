@@ -1,3 +1,33 @@
-First personal project
-Caden Chang
-First Edit
+Metro Project - Created by Caden Chang
+Program last edited: April 21, 2022
+
+Overview of project:
+- simulates a train moving from station to station
+- train picks up any passengers waiting at the station and drops them off
+at their specified destination
+- passengers who successfully complete their trips are recorded in the 
+outputfile
+
+Compile with: make MetroSim
+Run with: ./MetroSim [stationsfile] [outputfile] [commandsfile]
+
+stationsfile: must be a file in the same directory with the name of each
+station on a each line, will order the stations in the same order as file
+
+outputfile: file that records which passenger got off the train and at which
+station
+
+commandsfile: (optional) file that gives a sequence of commands that program
+can read in and execute
+
+Examples of each file included: stations.txt, result.txt, commands.txt
+
+Commands:
+m m: move the train down one station
+m f: finish program and print results to file
+p [x] [y]: x and y must correspond to a station given in the stations file,
+            must be a valid station number (ie can't give a station number of 
+            30 if there are only 20 stations)
+            x corresponds to the station a passenger starts at
+            y corresponds to the station where the passenger gets off the train
+

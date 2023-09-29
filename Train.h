@@ -1,15 +1,3 @@
-/*
- *  Train.h
- *  Caden Chang
- *  Completed 2/22/22
- *
- *  CS 15 Proj1 MetroSim
- *
- *  Header file for Train Class
- *  Contains all member function and variable declarations of class
- *  
- *
- */
 #ifndef TRAIN_H
 #define TRAIN_H
 #include <sstream>
@@ -42,5 +30,3 @@ private:
     std::vector<Passenger> arrived;
 };
 #endif
-
- 

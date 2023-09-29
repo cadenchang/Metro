@@ -1,16 +1,3 @@
-/*
- *  Main.cpp
- *  Caden Chang
- *  Completed 2/22/22
- *
- *  CS 15 Proj1 MetroSim
- *
- *  Main function that creates and initializes an instance of MetroSim
- *  
- *  
- *
- */
-
 #include <iostream>
 #include <fstream>
 #include <string>

@@ -1,16 +1,3 @@
-/*
- *  MetroSim.cpp
- *  Caden Chang
- *  Completed 2/22/22
- *
- *  CS 15 Proj1 MetroSim
- *
- *  Implementation of all member functions of MetroSim
- *  
- *  
- *
- */
-
 #include "MetroSim.h"
 #include "Passenger.h"
 #include "Station.h"

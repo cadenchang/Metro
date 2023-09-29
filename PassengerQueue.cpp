@@ -1,16 +1,3 @@
-/*
- *  PassengerQueue.cpp
- *  Caden Chang
- *  Completed 2/15/22
- *
- *  CS 15 Proj1 Phase One 
- *
- *  
- *  Contains all member functions of class with implementation
- *  
- *
- */
-
 #include "PassengerQueue.h"
 #include <vector>
 #include <iostream>

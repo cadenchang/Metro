@@ -1,16 +1,3 @@
-/*
- *  Station.cpp
- *  Caden Chang
- *  Completed 2/22/22
- *
- *  CS 15 Proj1 MetroSim
- *
- *  Implementation for all member functions for station struct
- *  
- *  
- */
-
-
 #include <iostream>
 #include <string>
 #include <ostream>

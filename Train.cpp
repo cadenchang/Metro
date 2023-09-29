@@ -1,15 +1,3 @@
-/*
- *  Train.cpp
- *  Caden Chang
- *  Completed 2/15/22
- *
- *  CS 15 Proj1 MetroSim 
- *
- *  
- *  Contains all member functions of class with implementation
- *  
- *
- */
 #include "Train.h"
 #include <vector>
 #include <iostream>

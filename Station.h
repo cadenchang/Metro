@@ -1,16 +1,3 @@
-/*
- *  Station.h
- *  Caden Chang
- *  Completed 2/22/22
- *
- *  CS 15 Proj1 MetroSim
- *
- *  Header file for station.h struct
- *  station struct contains a PassengerQueue object, int for station id
- *  and string for station name
- *  Was used to easily group station info
- */
-
 #ifndef STATION_H
 #define STATION_H
 
